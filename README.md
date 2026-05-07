@@ -1,4 +1,4 @@
-# TypeScript Practice & Beginner Blogs Next Level Software Engineering
+# TypeScript Practice & Beginner Blogs || Next Level Software Engineering
 
 This repository contains beginner-friendly TypeScript practice problems and simple blog articles to help understand core TypeScript concepts.
 
