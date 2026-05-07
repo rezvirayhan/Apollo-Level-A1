@@ -26,5 +26,4 @@ This repository contains beginner-friendly TypeScript practice problems and simp
 This repository was created for learning and practicing TypeScript while improving problem-solving and technical writing skills.
 
 ---
-
-Feel free to explore, learn, and improve the solutions.
+Rezvi Rayahn
